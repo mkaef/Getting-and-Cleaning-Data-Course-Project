@@ -31,9 +31,9 @@ The project is excuted as following:
 
 • Cleaned Data:
 
-The resulting dataset is located in a repertory at: data/dataset.txt. It contains one row for each activity/subject and columns for
+The resulting dataset is located in a repertory at: data/dataset.txt. It contains one row for each activity/subject and columns 
 
-activity and subject. And the original mean and standard deviation.
+for activity and subject. And the original mean and standard deviation.
 
 
 
