@@ -1,16 +1,18 @@
 Introduction
+
 This document contains information available for features analysis.It will help newcomers to rapdly understant 
 and apdate with the stastical unit. It wiil be easy to run the code into a spreadsheet such as Excel or database
 program such as Access.
 
-***Variable names:
+Variable names:
+
 Subject files: subtrain, subtest
 
                subject_train, subject_test
                
 Activity files: ActivityTrain, ActivityTest
 
-                Y_train, Y_test
+               Y_train, Y_test
                 
 Data files:    train, test
 
